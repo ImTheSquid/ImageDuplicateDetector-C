@@ -1,0 +1,4 @@
+build/
+unix/
+CMakeFiles/
+.vscode/
